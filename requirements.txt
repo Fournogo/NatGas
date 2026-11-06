@@ -1,0 +1,8 @@
+databento
+pandas
+pyarrow
+python-dotenv
+requests
+streamlit
+openpyxl
+scipy

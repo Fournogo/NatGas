@@ -1,0 +1,18 @@
+# Secrets: never commit
+.env
+.streamlit/secrets.toml
+
+# Environment / caches
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Data: raw pulls and cleaned parquet are large and reproducible from the pipeline
+data/raw/
+data/clean/
+logs/
+
+# Machine-local links into .venv (the Streamlit agent skill); dangling anywhere else
+.claude/skills/
+.agents/

@@ -1,0 +1,22 @@
+pulled_at_utc,source,report_id,start,end,rows,file,cost_usd,notes
+2026-11-05T01:56:35+00:00,databento,GLBX.MDP3/NG.v.0/ohlcv-1m,2023-12-11,2026-11-04T17:56:07.166558000Z,925157,data/raw/databento/ng_v0_ohlcv1m_2023-12-11_2026-11-04.dbn.zst,3.3776,"continuous front month, rolls by volume"
+2026-11-05T02:11:20+00:00,ercot_public_api,np3-233-cd,2023-12-11,2023-12-11,24,data/raw/ercot/np3-233-cd/,,docs=24 new=24; first post 2023-12-11T00:05:33.352; last post 2023-12-11T23:03:34.000
+2026-11-05T02:11:27+00:00,ercot_public_api,np4-737-cd,2023-12-11,2023-12-11,24,data/raw/ercot/np4-737-cd/,,docs=24 new=24; first post 2023-12-11T00:55:36.690; last post 2023-12-11T23:55:39.000
+2026-11-05T02:11:39+00:00,ercot_public_api,np4-738-cd,2023-12-11,2023-12-11,288,data/raw/ercot/np4-738-cd/,,docs=288 new=288; first post 2023-12-11T00:00:38.902; last post 2023-12-11T23:55:19.000
+2026-11-05T02:26:26+00:00,ercot_public_api,np3-233-cd,2023-12-11,,25387,data/raw/ercot/np3-233-cd/,,docs=25411 new=25387; first post 2023-12-11T00:05:33.352; last post 2026-11-04T20:00:49.000
+2026-11-05T02:39:59+00:00,ercot_public_api,np4-737-cd,2023-12-11,,25388,data/raw/ercot/np4-737-cd/,,docs=25412 new=25388; first post 2023-12-11T00:55:36.690; last post 2026-11-04T19:55:12.000
+2026-11-05T02:55:59+00:00,ercot_public_api,np4-745-cd,2023-12-11,,25413,data/raw/ercot/np4-745-cd/,,docs=25413 new=25413; first post 2023-12-11T00:55:50.236; last post 2026-11-04T19:55:17.000
+2026-11-05T03:11:31+00:00,ercot_public_api,np4-732-cd,2023-12-11,,25416,data/raw/ercot/np4-732-cd/,,docs=25416 new=25416; first post 2023-12-11T00:55:46.000; last post 2026-11-04T19:55:13.000
+2026-11-05T03:28:17+00:00,ercot_public_api,np4-742-cd,2023-12-11,,25400,data/raw/ercot/np4-742-cd/,,docs=25400 new=25400; first post 2023-12-11T00:55:51.876; last post 2026-11-04T20:55:13.000
+2026-11-05T06:25:19+00:00,ercot_public_api,np3-233-cd,2026-11-03,,4,data/raw/ercot/np3-233-cd/,,docs=49 new=4 unavailable=0; first post 2026-11-03T00:00:48.000; last post 2026-11-05T00:00:49.000
+2026-11-05T06:25:24+00:00,ercot_public_api,np4-737-cd,2026-11-03,,4,data/raw/ercot/np4-737-cd/,,docs=48 new=4 unavailable=0; first post 2026-11-03T00:55:17.000; last post 2026-11-04T23:55:15.000
+2026-11-05T06:25:28+00:00,ercot_public_api,np4-745-cd,2026-11-03,,4,data/raw/ercot/np4-745-cd/,,docs=48 new=4 unavailable=0; first post 2026-11-03T00:55:12.000; last post 2026-11-04T23:55:14.000
+2026-11-05T06:25:33+00:00,ercot_public_api,np4-732-cd,2026-11-03,,4,data/raw/ercot/np4-732-cd/,,docs=48 new=4 unavailable=0; first post 2026-11-03T00:55:12.000; last post 2026-11-04T23:55:14.000
+2026-11-05T06:25:38+00:00,ercot_public_api,np4-742-cd,2026-11-03,,3,data/raw/ercot/np4-742-cd/,,docs=48 new=3 unavailable=0; first post 2026-11-03T00:55:13.000; last post 2026-11-04T23:55:13.000
+2026-11-05T06:48:02+00:00,ercot_public_api,np4-738-cd,2026-05-04,,52720,data/raw/ercot/np4-738-cd/,,docs=53070 new=52720 unavailable=1 1223500527; first post 2026-05-04T00:00:16.000; last post 2026-11-05T00:25:06.000
+2026-11-05T10:37:01+00:00,ercot_public_api,np4-733-cd,2023-12-11,,305047,data/raw/ercot/np4-733-cd/,,docs=305052 new=305047 unavailable=5 1207494262;1223508237;1228675518;1234412501;1235632351; first post 2023-12-11T00:02:02.719; last post 2026-11-05T01:15:24.000
+2026-11-05T15:40:14+00:00,ercot_fuel_mix_xlsx,IntGenbyFuel,2023-01-01,2023-12-31,350400,data/raw/ercot/fuel-mix-2023-2024/IntGenbyFuel2023.xlsx,,manual download; settlement day-fuel counts {'FINAL': 3650}
+2026-11-05T15:40:16+00:00,ercot_fuel_mix_xlsx,IntGenbyFuel,2024-01-01,2024-12-31,351360,data/raw/ercot/fuel-mix-2023-2024/IntGenbyFuel2024.xlsx,,manual download; settlement day-fuel counts {'FINAL': 3660}
+2026-11-05T15:40:18+00:00,ercot_fuel_mix_xlsx,IntGenbyFuel,2025-01-01,2025-12-31,350400,data/raw/ercot/fuel-mix-2025/IntGenbyFuel2025.xlsx,,manual download; settlement day-fuel counts {'FINAL': 3650}
+2026-11-05T15:40:20+00:00,ercot_fuel_mix_xlsx,IntGenbyFuel,2026-01-01,2026-09-30,262040,data/raw/ercot/fuel-mix-2026/IntGenbyFuel2026.xlsx,,"manual download; settlement day-fuel counts {'FINAL': 2120, 'INITIAL': 610}"
+2026-11-06T17:57:45+00:00,derived,solar_forecast_error,2023-12-09,2026-11-11,25652,data/clean/solar_forecast_error.parquet,,NP4-737-CD: day-before 10:00 CT STPPF/PVGRPP vintage vs final actual; 25 corrupt postings dropped
